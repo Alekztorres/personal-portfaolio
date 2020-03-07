@@ -1,0 +1,10 @@
+#contentBannerHome{
+color: rgb(16, 130, 230);
+position: absolute;
+margin-top: 100px;
+ }
+
+ #contentBannerHome h1{
+    color: rgb(230, 16, 62);
+    
+     }
